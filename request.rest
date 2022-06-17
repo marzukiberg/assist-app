@@ -1,0 +1,2 @@
+GET https://61601920faa03600179fb8d2.mockapi.io/pegawai
+
